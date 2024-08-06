@@ -1,0 +1,58 @@
+.container{
+    background-image: url(../imagen/header.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    min-height: 600px;
+}
+h2{
+    font-size: 40px;
+}
+.header1 {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 65%;
+}
+.header1 a{
+    color: white;
+    text-decoration: none;
+    margin: 10px 20px;
+    margin-top: 0%;
+    
+}
+h1{
+    text-align: center;
+    
+}
+main{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+fieldset{
+    border: 1px solid black
+    ;
+    text-align: justify;
+    width: 400px;
+    
+}
+.pie{
+    background-color: black;
+    color: white;
+}
+.header2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 4%;
+}
+.header2 a{
+    color: white;
+    text-decoration: none;
+    margin: 10px 20px;
+    margin-top: 0%;
+    
+}
+.fot{
+    text-align: center;
+}
